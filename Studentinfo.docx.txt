@@ -1,5 +1,0 @@
-StudentID:23-65879-3
-name:Soha
-Department:CSE
-Date:27.10.2026
-Time:9:05
